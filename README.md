@@ -1,9 +1,3 @@
-[![Build][builds-shield]][stars-url]
-[![stargazers][stars-shield]][stars-url]
-[![Total Downloads][downloads-shield]][downloads-url]
-[![Issues][issues-shield]][issues-url]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -55,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Xeon Inventory Screenshot][product-screenshot]](https://example.com)
+[![Xeon Inventory Screenshot][product-screenshot]](https://github.com/0x5un5h1n3/xeon-inventory)
 
 Xeon Inventory provides the basics of inventory management using Eloquent such as:
 
@@ -115,18 +109,4 @@ Sit back and relax. Have Control.
 Run a more efficient business :)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[builds-shield]: https://img.shields.io/appveyor/build/0x5un5h1n3/xeon-inventory?style=for-the-badge
-[builds-url]: https://github.com/0x5un5h1n3/xeon-inventory/stargazers
-
-[stars-shield]: https://img.shields.io/github/stars/0x5un5h1n3/xeon-inventory.svg?style=for-the-badge
-[stars-url]: https://github.com/0x5un5h1n3/xeon-inventory/stargazers
-
-[downloads-shield]: https://img.shields.io/packagist/dt/0x5un5h1n3/xeon-inventory.svg?style=for-the-badge
-[downloads-url]: https://github.com/0x5un5h1n3/xeon-inventory/stargazers
-
-
-
-[issues-shield]: https://img.shields.io/github/issues/0x5un5h1n3/xeon-inventory.svg?style=for-the-badge
-[issues-url]: https://github.com/0x5un5h1n3/xeon-inventory/issues
-
 [product-screenshot]: images/screenshot.png
